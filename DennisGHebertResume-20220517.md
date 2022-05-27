@@ -1,14 +1,14 @@
-﻿Dennis G. Hebert
+Dennis G. Hebert
 301 Siena Drive
 Wake Forest, NC, 27587
 (919) 247-6179
 dennis.hebert@gmail.com
 https://www.linkedin.com/in/dennisghebert
 
-Summary
+#Summary
 Software engineering professional with experience in software development, build, test, and product globalization/translation.  Strengths in manual and automated testing, leadership, mentoring, verbal & written communication, and organizational skills.  Interested in management, leadership and coordination/facility roles, quality engineering, release engineering, and tools development.
 
-Professional Experience
+#Professional Experience
 Celerity										11/2021 to Present
 Senior Quality Analyst at Baxter Credit Union (BCU)
 • Performed integration, end to end, ELT/data, and regression testing on many Credit Union processes and features
@@ -81,7 +81,7 @@ o Tooling for conversion from message file format to HTML for publication online
 o XML-based Component Prefix Registry      
 ● Scripts for extracting code from source control and building WOM (CVS, CMVC)
 
-Skills
+#Skills
 Tools: Gradle, Ansible, Selenium, Maven, qTest, InnoSetup, ANT, Eclipse, JIRA, AWS
 Source Repositories: Git, Perforce, SVN, CMVC, Fogbugz, CDETS, 
 SQL: PostgreSQL, MySql, DB2, Oracle, MongoDB
@@ -90,11 +90,11 @@ Platforms: Windows, Linux
 Technologies:  XML, HTML, VMware
 Automation Tools: Selenium, Java, Shell Scripting, Applitools, AccelQ, C#, RFT, some Cypress / JS
 
-Education
+#Education
 McNeese State University, Lake Charles, LA
 B.S. Engineering - Electrical Option - Computer Concentration
 
-IBM Professional Development
+#IBM Professional Development
 Linux System Administration | Linux Power User | WAS System Administration | Disciplined AGILE Development
 Cisco Systems Professional Development
 VMware vSphere: Install, Configure, Manage V5.0 | Intensive Introduction to Python | Intermediate Python | RESTful Java training course
